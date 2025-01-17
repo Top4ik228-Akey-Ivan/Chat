@@ -1,11 +1,11 @@
-# Memory Game
+# Chat
 
-Этот проект был разработан для изучения языка typescript, а также практики работы с redux, nodejs и базой данных mongodb
+Этот проект был разработан для изучения webSocket, практики работы с nodeJS, mongodb, RestApi
 
 ## 🔧 Технологии и Инструменты
 <div>
-    <img src="https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=CSS3&logoColor=548fc7" alt="css"/>
-    <img src="https://img.shields.io/badge/-TYPESCRIPT-000000?style=for-the-badge&logo=typescript" alt="typescript"/>
+    <img src="https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=SASS&logoColor=CC6699" alt="sass"/>
+    <img src="https://img.shields.io/badge/-JAVASCRIPT-000000?style=for-the-badge&logo=javascript" alt="javascript"/>
     <img src="https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=REACT" alt="react"/>
     <img src="https://img.shields.io/badge/-REDUX-000000?style=for-the-badge&logo=REDUX&logoColor=893dbf" alt="redux"/>
     <img src="https://img.shields.io/badge/-NODE-000000?style=for-the-badge&logo=NODE.JS&logoColor=23b84d" alt="nodejs"/>
