@@ -1,0 +1,38 @@
+.profile{
+    display: flex;
+    align-items:flex-end;
+    gap: 20px;
+    padding: 30px;
+}
+
+.avatar{
+    width: 128px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.profileHeader{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btnBox{
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px 0;
+    gap:10px;
+}
+
+.profileBtn{
+    border: none;
+    padding: 8px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #BBA2F5;
+}
+
+.profileInput {
+    display: none; /* Скрыть стандартный input */
+}

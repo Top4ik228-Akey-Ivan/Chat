@@ -1,0 +1,22 @@
+.friendSmall{
+    text-align: center;
+    & img {
+        min-width: 64px;
+        aspect-ratio: 1/1;
+        border-radius: 50%;
+    }
+}
+
+.onlineFriends{
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid #dedff6;
+}
+
+.friendsBox{
+    display: flex;
+    overflow-x: auto;
+    justify-content: space-between;
+    margin-top: 16px;
+
+}

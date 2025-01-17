@@ -1,0 +1,26 @@
+img{
+    width: 16px;
+}
+
+.services{
+    min-width: 340px;
+    height: 100%;
+}
+
+.services__li{
+    margin-bottom: 4px;
+    padding: 8px 10px;
+    border-radius: 8px;
+
+    list-style-type: none;
+    transition: .1s linear;
+}
+
+.services__li:first-child, .services__li:hover{
+    background-color: #d5d6f6;
+}
+
+.services__link{
+    text-decoration: none;
+    color: black;
+}

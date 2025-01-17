@@ -1,0 +1,14 @@
+.services{
+    display: flex;
+    gap: 24px;
+}
+
+.serviceBox{
+    display: flex;
+    align-items: center;
+    gap:10px;
+
+    & img {
+        width: 20px;
+    }
+}

@@ -1,0 +1,26 @@
+img{
+    width: 20px;
+}
+
+
+.services__li{
+    display: flex;
+    align-items: center;
+
+    gap:6px;
+    margin-bottom: 10px;
+    padding: 4px 10px;
+    border-radius: 4px;
+
+    list-style-type: none;
+    transition: .1s linear;
+}
+
+.services__li:hover{
+    background-color: #d5d6f6;
+}
+
+.services__link{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,38 @@
+.playlists{
+    display: flex;
+    gap: 16px;
+    overflow-x: auto;
+
+    padding-bottom: 16px;
+    border-bottom: 1px solid #dedff6;
+}
+
+.playlistSmall{
+    min-width: 100px;
+    margin-top: 16px;
+    & img{
+        border: 1px solid #dedff6;
+        border-radius: 6px;
+        width: 100%;
+        aspect-ratio: 1/1;
+    }
+}
+
+.track{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+
+    & img {
+        width: 48px;
+        border-radius: 6px;
+    }
+}
+
+.tracks{
+    margin-top: 16px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:10px 16px;
+}

@@ -1,0 +1,60 @@
+::-webkit-scrollbar { display: none; }
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #C5C6F5;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container{
+    min-width: 450px;
+    min-height: 100vh;
+    width: 100%;
+    /* border: 2px solid black; */
+}
+
+
+.avatar__img{
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
+.main { 
+  padding-top: 10px;
+  margin: 0 auto;
+
+  display: flex; 
+  justify-content: left;
+  gap: 16px;
+  /* border: 5px solid black;  */
+  width: 1100px; /* Или фиксированная ширина, если необходимо */
+  min-height: 100vh; /* Для центрирования по вертикали */
+  box-sizing: border-box; 
+}
+
+.borderBlock{
+  padding: 6px;
+
+  border-radius: 10px;
+  background-color: #d1c3f6;
+  border: 2px solid #dedff6;
+  
+}
+

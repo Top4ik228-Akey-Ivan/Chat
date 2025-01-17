@@ -1,0 +1,76 @@
+
+
+
+.content{
+    display: flex;
+    gap:16px;
+    margin-top: 16px;
+}
+
+.left{
+    display: flex;
+    flex-wrap: wrap;
+    gap:16px;
+    width: 60%;
+    height: 100%;
+}
+.right{
+    display: flex;
+    flex-wrap: wrap;
+    gap:16px;
+    width: 40%;
+    height: 100%;
+}
+
+.profileBlock{
+    padding: 10px 30px;
+    width: 100%;
+
+    border-radius: 10px;
+    background-color: #d1c3f6;
+    border: 2px solid #dedff6;
+}
+
+
+.musicBtn{
+    margin: 20px 0;
+    width: 100%;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #BBA2F5;
+}
+
+
+.addPostBtn{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+}
+
+.addPostBtnText{
+    border-right: 1px solid #dedff6;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btnLogos{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    cursor: pointer;
+}
+
+
+
+.custom_file_upload {
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+}
