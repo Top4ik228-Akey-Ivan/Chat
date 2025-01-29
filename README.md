@@ -19,6 +19,16 @@
     <img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=23b84d" alt="mongodb"/>
 </div>
 
+## Основные страницы приложения
+
+### LoginPage
+![LoginPage](/frontend/src/images/screenshots/login.png)
+###
+![ChatsPage](/frontend/src/images/screenshots/chats.png)
+###
+![ChatPage](/frontend/src/images/screenshots/chat.png)
+###
+![ProfilePage](/frontend/src/images/screenshots/profile.png)
 ## Запуск проекта
 
 Логика проекта прописана в основных двух папках Backend и Frontend.<br>
